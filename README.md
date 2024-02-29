@@ -3,7 +3,7 @@
 - 🌱 I'm currently focusing on learning CSS and JavaScript to enhance my skills in front-end web development.
 - I'm eager to collaborate with fellow developers on exciting projects, leveraging our combined skills to create innovative solutions and push boundaries in the world of coding
 - I'm always open to collaborations and interesting projects. Feel free to reach out to me via email.
-- 😄 Pronouns: My pronouns are he/himand I appreciate it when others use them in conversation.
+- 😄 Pronouns: My pronouns are he/him and I appreciate it when others use them in conversation.
   
 
 <!---
